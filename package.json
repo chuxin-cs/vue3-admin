@@ -1,12 +1,17 @@
 {
   "name": "js-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "JavaScript demo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "js",
+    "JS",
+    "JavaScript",
+    "chuxin"
+  ],
+  "author": "云层上的光|初心",
   "license": "ISC"
 }
