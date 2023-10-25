@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "JavaScript demo",
   "main": "index.js",
-  "scripts": {
-    "new": "node ./scripts/generate.js"
-  },
+  "scripts": {},
   "keywords": [
     "js",
     "JS",
