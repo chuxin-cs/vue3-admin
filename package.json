@@ -22,6 +22,8 @@
     "preinstall": "npx only-allow pnpm"
   },
   "keywords": [
+    "vue-admin",
+    "vue3-admin",
     "pure-admin-thin",
     "vue-pure-admin",
     "element-plus",
